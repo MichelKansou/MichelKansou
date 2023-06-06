@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! I'm [Michel Kansou](https://michelkansou.github.io/) 👋🏼
+
+I'm a French Full Stack Engineer based in Andorra, that loves to code and interface hacker working with JavaScript,Typescript, React, NextJS and NodeJS to deliver exceptional customer experiences, currently at [Disney](http://disneylandparis.com/).
+
+![GitHub Stats][image-github-stats]
+
+[image-github-stats]: https://github-readme-stats.vercel.app/api?username=michelkansou&count_private=true&show_icons=true&show_owner=true&theme=radical&hide=contribs "GitHub Stats"
 
 <!--
 **MichelKansou/MichelKansou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
